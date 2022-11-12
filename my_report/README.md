@@ -2,7 +2,7 @@
 
 ### First and Last Name: Ζαντζου Δέσποινα 
 ### University Registration Number: dpsd18140
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/Zantzou/Role-Playing-Game
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
